@@ -1,0 +1,23 @@
+
+/**
+ * Cargosafe
+ */
+
+.logo[data-logo="Cargosafe"] {
+  width: .95em;
+  /* (512/512) * (1-.05) - 0 */
+}
+
+.logo[data-logo="Cargosafe"] > * {
+  background-image: url(images/logo-black.svg);
+  margin: 0 0 .05em;
+}
+
+.logo[data-logo="Cargosafe"][data-color="black"] > * {
+  background-image: url(images/logo-black.svg);
+}
+
+.logo[data-logo="Cargosafe"][data-color="white"] > * {
+  background-image: url(images/logo-white.svg);
+}
+

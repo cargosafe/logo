@@ -1,0 +1,19 @@
+{
+  "name": "logo",
+  "repo": "cargosafe/logo",
+  "description": "Cargosafe logo",
+  "version": "0.0.1",
+  "keywords": ["cargosafe", "logo"],
+  "dependencies": {},
+  "development": {
+    "logo/logo": "*"
+  },
+  "images": [
+    "images/logo-black.svg",
+    "images/logo-white.svg"
+  ],
+  "styles": [
+    "logo.css"
+  ],
+  "license": "MIT"
+}
