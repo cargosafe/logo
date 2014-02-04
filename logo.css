@@ -4,8 +4,8 @@
  */
 
 .logo[data-logo="Cargosafe"] {
-  width: .95em;
-  /* (512/512) * (1-.05) - 0 */
+  width: .76em;
+  /* (512/640) * (1-.05) - 0 */
 }
 
 .logo[data-logo="Cargosafe"] > * {
