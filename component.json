@@ -2,7 +2,7 @@
   "name": "logo",
   "repo": "cargosafe/logo",
   "description": "Cargosafe logo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": ["cargosafe", "logo"],
   "dependencies": {},
   "development": {
